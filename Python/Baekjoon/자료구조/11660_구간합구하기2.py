@@ -25,7 +25,8 @@ D = [[0] * (n+1) for _ in range(n+1)]
 
 for i in range(n):
     # 인덱스 번호를 맞추기 위한 패딩 [0]
-    A_row = [0] + [int(x) for x in input().split()]
+    # A_row = [0] + [int(x) for x in input().split()]
+    A_row = [0] + list(map(int, input().split()))
     A.append(A_row)
 
 # 합배열 구하기    
