@@ -13,6 +13,7 @@ for i in numbers:
 sum 출력
 """
 
+# 솔루션 1
 n = input()
 numbers = list(map(int, input()))
 sum = 0
@@ -22,3 +23,6 @@ for i in numbers:
     
 print(sum)
 
+# 솔루션 2
+n = input()
+print(sum(map(int, input())))
