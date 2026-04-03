@@ -3,7 +3,7 @@
 효율적인 로직과 클린 코드를 지향하며, 오답 노트를 통해 실수를 기록하고 개선합니다.
 
 ## 🛠 Tech Stack
-- **Languages:** Python (Main), C++ (Planned)
+- **Languages:** Python, C++
 - **Platforms:** Baekjoon, Programmers
 
 ## 📁 Repository Structure
