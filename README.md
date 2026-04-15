@@ -3,12 +3,12 @@
 효율적인 로직과 클린 코드를 지향하며, 오답 노트를 통해 실수를 기록하고 개선합니다.
 
 ## 🛠 Tech Stack
-- **Languages:** Python (Main), C++ (Planned)
+- **Languages:** Python, C++
 - **Platforms:** Baekjoon, Programmers
 
 ## 📁 Repository Structure
 - `Python/`: 파이썬 문제 풀이 및 핵심 문법 팁
-- `CPP/`: C++ 기초 및 알고리즘 구현 (추후 추가 예정)
+- `CPP/`: C++ 알고리즘 구현
 
 ## 📝 오답 노트 및 핵심 요약 (TIL)
 | 날짜 | 문제 번호 | 제목 | 핵심 배운 점 | 링크 |
