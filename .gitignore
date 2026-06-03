@@ -20,3 +20,9 @@ build/
 .DS_Store
 Thumbs.db
 .vscode
+
+# Visual Studio 임시 파일 제외
+.vs/
+*.user
+*.suo
+*.db

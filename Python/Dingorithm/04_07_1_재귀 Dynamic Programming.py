@@ -18,7 +18,4 @@ def fibo_dynamic_programming(n, fibo_memo):
     else:
         return fibo_memo[n]
     
-    
-    
-
 print(fibo_dynamic_programming(input, memo))
